@@ -5,6 +5,6 @@
 </div>
 
 ## Índice
-*[Descripción](#Descripción)
+* [Descripción](#Descripción)
 
 ## Descripción
