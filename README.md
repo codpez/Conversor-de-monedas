@@ -13,7 +13,10 @@
 * [Conclusión](#Conlusión)
 
 ## Descripción
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.
+Este proyecto realiza conversiones de divisas utilizando como base los datos recopilados de forma actualizada de ExchangeRate-API. La conversión se realiza con 2 pares de divisas, se usa el estandar [ISO 4217](https://es.wikipedia.org/wiki/ISO_4217) para referenciar las divisas, esta aplicación admite [161 divisas](https://www.exchangerate-api.com/docs/supported-currencies).
+
+
+
 ## Estado del proyecto
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.
 
