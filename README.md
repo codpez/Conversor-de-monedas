@@ -26,7 +26,6 @@ Finalizado la primera versión, se espera agregar una segunda opción para consu
 ## Características de la Aplicación
 - Convierte monedas.
 - Trabaja con datos flotantes.
-- Te da la ultima hora de actualización de la tasa de cambio.
 
 ## Tecnologías usadas
 - **Lenguaje:** Java
@@ -42,5 +41,16 @@ Finalizado la primera versión, se espera agregar una segunda opción para consu
 ## Demostración
 Al correr el programa aparece un pequeño menu, por el momento solo tiene 2 opciones, salir de la aplicación con "0"
 y cambiar monedas con "1", proximamente se implementara una opcion "2".<br>
-![1](https://github.com/codpez/Conversor-de-monedas/assets/65423779/9a168cd4-f61c-4677-a0e1-55273cd482df)
+![1](https://github.com/codpez/Conversor-de-monedas/assets/65423779/9a168cd4-f61c-4677-a0e1-55273cd482df)<br>
+
+Primero pide que ingrese el codigo de la modena base, después se pide que se pide el codigo de la moneda a la que se desea cambiar. Finalmente
+se pide el monto que se desea cambiar.
+
+![4](https://github.com/codpez/Conversor-de-monedas/assets/65423779/c902be26-14d9-4ad6-bbf4-e3ab15490cee)
+
+Muestra resultados
+![5](https://github.com/codpez/Conversor-de-monedas/assets/65423779/a7c5ea32-e05d-4276-bc8f-b8a01fa9de30)
+
+
+
 
