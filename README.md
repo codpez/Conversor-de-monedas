@@ -48,7 +48,7 @@ se pide el monto que se desea cambiar.
 
 ![4](https://github.com/codpez/Conversor-de-monedas/assets/65423779/c902be26-14d9-4ad6-bbf4-e3ab15490cee)
 
-Muestra resultados
+Muestra resultados<br>
 ![5](https://github.com/codpez/Conversor-de-monedas/assets/65423779/a7c5ea32-e05d-4276-bc8f-b8a01fa9de30)
 
 
