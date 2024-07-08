@@ -35,7 +35,7 @@ Finalizado la primera versión, se espera agregar una segunda opción para consu
 ## Desarrolladores del Proyecto
 
 <a href="https://github.com/codpez">
-  <img src="https://github.com/codpez.png" width="100px" alt="codpez" style="border-radius:50%">
+  <img src="https://github.com/codpez.png" width="100px" alt="codpez" style="border-radius:50% align="left">
 </a>
 
 **[codpez](https://github.com/codpez)**
