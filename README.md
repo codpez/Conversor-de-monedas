@@ -40,3 +40,7 @@ Finalizado la primera versión, se espera agregar una segunda opción para consu
 
 **[codpez](https://github.com/codpez)**
 ## Demostración
+Al correr el programa aparece un pequeño menu, por el momento solo tiene 2 opciones, salir de la aplicación con "0"
+y cambiar monedas con "1", proximamente se implementara una opcion "2".
+![1](https://github.com/codpez/Conversor-de-monedas/assets/65423779/9a168cd4-f61c-4677-a0e1-55273cd482df)
+
