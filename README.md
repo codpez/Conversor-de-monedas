@@ -8,3 +8,13 @@
 * [Descripción](#Descripción)
 
 ## Descripción
+
+## Estado del proyecto
+
+## CARACTERISTICAS DE LA APLICACIÓN Y DEMOSTRACIÓN
+
+## TECNOLOGIAS UTILIZADAS
+
+## Personas-Desarrolladores del Proyecto
+
+## Conlcusión
