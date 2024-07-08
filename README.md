@@ -25,7 +25,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
 
 ## Desarrolladores del Proyecto
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa.
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?logo=github&link=https%3A%2F%2Fgithub.com%2Fcodpez">
+
+|[<img src="https://avatars.githubusercontent.com/u/codpez" width=120><br><sub>Uriel Delgado</sub>](https://github.com/codpez)
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fcodpez">
 
 ## Conlcusión
